@@ -1,1 +1,150 @@
-http://127.0.0.1:5500/curso_ebac_frontend/testeeee.html#tecnologia
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu portal de notícias</title>
+    <link rel="stylesheet" href="./main.css" />
+</head>
+<body>
+    <header>
+        <h1>Meu portal de notícias</h1>
+        <nav>
+            <ul>
+                <li>
+                    <a href="#sports" title="Ir para a seção de esportes">Esportes</a>
+                </li>
+                <li>
+                    <a href="#economy" title="Ir para a seção de notícias">Economia</a>
+                </li>
+                <li>
+                    <a href="#astronomia" title="Ir para seção de Astronomia">Astronomia</a>
+                    </li>
+                    <li>
+                        <a href="#tecnologia" title="Ir para a seção de Tecnologia">Tecnologia</a>
+                    </li>
+
+            </ul>
+        </nav>
+    </header>
+    <section>
+        <h2>Esportes</h2>
+        <article>
+            <img src="./imagens/futebol.jpg" alt="Bola de futebol no gramado" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Grande clássico na noite de hoje</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa">Ler mais</a>
+        </article>
+        <article>
+            <img src="./imagens/futebol-americano.jpg" alt="Jogador de futebol americano correndo com a bola na mão" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Noite do Superbowl</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa">Ler mais</a>
+        </article>
+        <article>
+            <img src="./imagens/basquete.jpg" title="Vista aérea de uma quadra de basquete" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Notícia sobre a NBA</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa">Ler mais</a>
+        </article>
+        <article>
+            <img src="./imagens/basquete.jpg" title="Vista aérea de uma quadra de basquete" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Notícia sobre a NBA</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa">Ler mais</a>
+        </article>
+    </section>
+    <section>
+        <h2>Economia</h2>
+        <article>
+            <img src="./imagens/dolares.jpg" alt="Muitos dólares" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Dólar em alta de 0.50%</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa">Ler mais</a>
+        </article>
+        <article>
+            <img src="./imagens/euro.jpg" alt="Várias notas de euro" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Euro em queda de 0.40%</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa">Ler mais</a>
+        </article>
+        <article>
+            <img src="./imagens/petroleo.jpg" alt="Extração de petróleo" />
+            <header>
+                <time>13/07/2022 às 12:35</time>
+            </header>
+            <h3>Alta no preço do barril do petróleo</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur consequuntur doloremque totam labore architecto. Corporis adipisci optio placeat quibusdam totam iure veritatis quam, ullam tenetur error? Laborum, modi itaque. Sunt.
+            </p>
+            <a href="#" title="Leia a notícia completa">Ler mais</a>
+        </article>
+    </section>
+</body>
+</head>
+<link rel="stylesheet" href="./main2.css"/>
+<body>
+    <header>
+        <h1>Meu portal de notícias</h1>
+    </header>
+    <section>
+        <h2>Astronomia</h2>
+        <article>
+            <img src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/02/230223112632-01-exoplanet-toi-5205b.webp?w=876&h=484&crop=1" title="A ilustração de um artista mostra um grande planeta gigante gasoso (primeiro plano) orbitando uma pequena estrela anã vermelha chamada TOI 5205./>
+            Katherine Cain/Carnegie Institution for Science" title="dois planetas vermelhos"
+        <header>
+            <p><time>01/02/2023 às 13:27</time></p>
+        </header>
+        
+            <h3>“Planeta proibido” gigante é descoberto fora do nosso sistema solar</h3>
+            <p>Astrônomos descobriram um planeta extraordinariamente grande orbitando uma estrela pequena, localizada a cerca de 280 anos-luz da Terra.
+                O tamanho inesperado deste mundo recém-descoberto, chamado TOI 5205b, levou os pesquisadores a chamá-lo de “planeta proibido”.
+            </p>
+            <link rel="stylesheet" href="./main.css"/>
+<body>
+    <header>
+        
+        
+    </header>
+    <section>
+        <h2>Tecnologia</h2>
+        <article>
+            <img src="https://www.pressmanager.com.br/wp-content/uploads/2019/05/tecnologia.png" title= "explosão de tecnologia" />
+            <header>
+                <time>01/02/2023 às 13:27</time>
+            </header>
+            <h3>Empresas de tecnologia prometem 'tsunami de inovação' em Barcelona</h3>
+            <p>Os profissionais do setor de novas tecnologias prometeram nesta segunda-feira (27) em Barcelona um "tsunami de inovação", durante o início do encontro anual mais importante da área, que ocorre sob perspectivas comerciais ruins para a industria.
+            </p>
+</html>
